@@ -85,9 +85,9 @@
 				FACA946519E9C41B0044D379 /* AppDelegate.m */,
 				FACA946719E9C41B0044D379 /* ViewController.h */,
 				FACA946819E9C41B0044D379 /* ViewController.m */,
+				FACA946F19E9C41B0044D379 /* LaunchScreen.xib */,
 				FACA946A19E9C41B0044D379 /* Main.storyboard */,
 				FACA946D19E9C41B0044D379 /* Images.xcassets */,
-				FACA946F19E9C41B0044D379 /* LaunchScreen.xib */,
 				FACA946019E9C41B0044D379 /* Supporting Files */,
 			);
 			path = "Help Center";
